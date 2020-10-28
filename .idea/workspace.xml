@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="665a3bb2-f0fa-4e71-8e0c-b3b4b270b96e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1j9xyPe9V4ocsu05WmhDbd9vSe7" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CukesRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EU3CucumberSeleniumME" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vytrack.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.vytrack.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.vytrack.runners.CukesRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CukesRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="665a3bb2-f0fa-4e71-8e0c-b3b4b270b96e" name="Default Changelist" comment="" />
+      <created>1603230374978</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603230374978</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1238" height="199" key="GridCell.Tab.0.bottom" timestamp="1603750126817">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="199" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1603750126817" />
+    <state width="1238" height="141" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1603722913993" />
+    <state width="1238" height="311" key="GridCell.Tab.0.bottom/0.23.1280.729@0.23.1280.729" timestamp="1603369669493" />
+    <state width="1238" height="199" key="GridCell.Tab.0.center" timestamp="1603750126815">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="199" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1603750126815" />
+    <state width="1238" height="141" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1603722913992" />
+    <state width="1238" height="311" key="GridCell.Tab.0.center/0.23.1280.729@0.23.1280.729" timestamp="1603369669492" />
+    <state width="1238" height="199" key="GridCell.Tab.0.left" timestamp="1603750126815">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="199" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1603750126815" />
+    <state width="1238" height="141" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1603722913991" />
+    <state width="1238" height="311" key="GridCell.Tab.0.left/0.23.1280.729@0.23.1280.729" timestamp="1603369669491" />
+    <state width="1238" height="199" key="GridCell.Tab.0.right" timestamp="1603750126816">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="199" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1603750126816" />
+    <state width="1238" height="141" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1603722913992" />
+    <state width="1238" height="311" key="GridCell.Tab.0.right/0.23.1280.729@0.23.1280.729" timestamp="1603369669493" />
+    <state width="1238" height="264" key="GridCell.Tab.1.bottom" timestamp="1603557328620">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="264" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1603557328620" />
+    <state width="1238" height="264" key="GridCell.Tab.1.center" timestamp="1603557328619">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="264" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1603557328619" />
+    <state width="1238" height="264" key="GridCell.Tab.1.left" timestamp="1603557328619">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="264" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1603557328619" />
+    <state width="1238" height="264" key="GridCell.Tab.1.right" timestamp="1603557328620">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="264" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1603557328620" />
+    <state x="38" y="163" width="596" height="474" key="find.popup" timestamp="1603747331550">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="38" y="163" width="596" height="474" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1603747331550" />
+  </component>
+</project>
