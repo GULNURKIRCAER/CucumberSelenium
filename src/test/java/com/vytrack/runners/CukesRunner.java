@@ -23,6 +23,6 @@ import org.junit.runner.RunWith;
         //tags="@driver or @store_manager"  1. ve 3.yu aliyor
         //tags="@login and not "@wip and not "@store_manager" login olanlari al wip olanlari alma
 
-)
+)//fgfgfg
 public class CukesRunner {// connection between feature files and step definition files
 }
