@@ -15,7 +15,7 @@ import org.junit.runner.RunWith;
         glue = "com/vytrack/step_definitions",
        // dryRun = true  calisip calismadigi gosterir print yapmaz
         dryRun = false, //print yapar.sayfaya gider acar kapatir
-        tags="@smoke"
+        tags="@wip"
         //tags = "@wip" //work in process
         //tags= "@login" //en yukarida login old icin hepsini cikartacak
         //tags= "@store_manager"  hangisini istiyorsak ozel onu yazabiliriz
