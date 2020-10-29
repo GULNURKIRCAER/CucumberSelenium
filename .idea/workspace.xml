@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="665a3bb2-f0fa-4e71-8e0c-b3b4b270b96e" name="Default Changelist" comment="" />
+    <list default="true" id="665a3bb2-f0fa-4e71-8e0c-b3b4b270b96e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/runners/FailedTestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/vytrack/runners/CukesRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/runners/CukesRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/AccountType.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/AccountType.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/default-html-reports/embedded0.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/default-html-reports/embedded0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/default-html-reports/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/default-html-reports/report.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +25,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -25,6 +36,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1j9xyPe9V4ocsu05WmhDbd9vSe7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -64,29 +76,48 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1238" height="199" key="GridCell.Tab.0.bottom" timestamp="1603750126817">
+    <state x="465" y="308" key="Github.ShareDialog" timestamp="1603879067749">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="199" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1603750126817" />
+    <state x="465" y="308" key="Github.ShareDialog/0.0.1280.800@0.0.1280.800" timestamp="1603879067749" />
+    <state x="346" y="113" key="Github.UntrackedFilesDialog" timestamp="1603879071865">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="346" y="113" key="Github.UntrackedFilesDialog/0.0.1280.800@0.0.1280.800" timestamp="1603879071865" />
+    <state width="592" height="198" key="GridCell.Tab.0.bottom" timestamp="1603973733628">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="592" height="198" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1603973733628" />
     <state width="1238" height="141" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1603722913993" />
     <state width="1238" height="311" key="GridCell.Tab.0.bottom/0.23.1280.729@0.23.1280.729" timestamp="1603369669493" />
-    <state width="1238" height="199" key="GridCell.Tab.0.center" timestamp="1603750126815">
+    <state width="592" height="198" key="GridCell.Tab.0.center" timestamp="1603973733626">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="199" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1603750126815" />
+    <state width="592" height="198" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1603973733626" />
     <state width="1238" height="141" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1603722913992" />
     <state width="1238" height="311" key="GridCell.Tab.0.center/0.23.1280.729@0.23.1280.729" timestamp="1603369669492" />
-    <state width="1238" height="199" key="GridCell.Tab.0.left" timestamp="1603750126815">
+    <state width="592" height="198" key="GridCell.Tab.0.left" timestamp="1603973733625">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="199" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1603750126815" />
+    <state width="592" height="198" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1603973733625" />
     <state width="1238" height="141" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1603722913991" />
     <state width="1238" height="311" key="GridCell.Tab.0.left/0.23.1280.729@0.23.1280.729" timestamp="1603369669491" />
-    <state width="1238" height="199" key="GridCell.Tab.0.right" timestamp="1603750126816">
+    <state width="592" height="198" key="GridCell.Tab.0.right" timestamp="1603973733627">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="199" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1603750126816" />
+    <state width="592" height="198" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1603973733627" />
     <state width="1238" height="141" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1603722913992" />
     <state width="1238" height="311" key="GridCell.Tab.0.right/0.23.1280.729@0.23.1280.729" timestamp="1603369669493" />
     <state width="1238" height="264" key="GridCell.Tab.1.bottom" timestamp="1603557328620">
@@ -105,9 +136,9 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="264" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1603557328620" />
-    <state x="38" y="163" width="596" height="474" key="find.popup" timestamp="1603747331550">
+    <state x="38" y="163" width="596" height="474" key="find.popup" timestamp="1603973515767">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="38" y="163" width="596" height="474" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1603747331550" />
+    <state x="38" y="163" width="596" height="474" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1603973515767" />
   </component>
 </project>

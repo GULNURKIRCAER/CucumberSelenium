@@ -8,7 +8,8 @@ import org.junit.runner.RunWith;
 @RunWith(Cucumber.class)
 @CucumberOptions(
         plugin = {"json:target/cucumber.json",// json is a file extension,storing information.RAPOR ICIN
-                 "html:target/default-html-reports"},
+                 "html:target/default-html-reports",
+                "rerun:target/rerun.txt"},
         features = "src/test/resources/features", //to make connection if there is no features cukesRunner
                                                  // will look at same package(runners)Path of file
         glue = "com/vytrack/step_definitions",
