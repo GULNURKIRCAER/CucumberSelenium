@@ -34,12 +34,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="665a3bb2-f0fa-4e71-8e0c-b3b4b270b96e" name="Default Changelist" comment="failed test runner">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vytrack/runners/CukesRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/runners/CukesRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vytrack/utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/utilities/Driver.java" afterDir="false" />
-    </list>
+    <list default="true" id="665a3bb2-f0fa-4e71-8e0c-b3b4b270b96e" name="Default Changelist" comment="failed test runner" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -195,7 +190,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="failed test runner" />
-    <option name="LAST_COMMIT_MESSAGE" value="failed test runner" />
+    <MESSAGE value="driver added" />
+    <option name="LAST_COMMIT_MESSAGE" value="driver added" />
   </component>
   <component name="WindowStateProjectService">
     <state x="465" y="308" key="Github.ShareDialog" timestamp="1603879067749">
@@ -254,5 +250,9 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="38" y="163" width="596" height="474" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1603973515767" />
+    <state x="358" y="121" key="git4idea.branch.GitSmartOperationDialog" timestamp="1603994391935">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="358" y="121" key="git4idea.branch.GitSmartOperationDialog/0.0.1280.800@0.0.1280.800" timestamp="1603994391935" />
   </component>
 </project>
