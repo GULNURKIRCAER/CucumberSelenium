@@ -18,17 +18,20 @@
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+    </expand>
+    <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:final" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-    </expand>
-    <select />
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="665a3bb2-f0fa-4e71-8e0c-b3b4b270b96e" name="Default Changelist" comment="last" />
+    <list default="true" id="665a3bb2-f0fa-4e71-8e0c-b3b4b270b96e" name="Default Changelist" comment="last">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +60,7 @@
     </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="final" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -112,8 +115,8 @@
       <list>
         <item itemvalue="JUnit.FailedTestRunner" />
         <item itemvalue="JUnit.CukesRunner" />
-        <item itemvalue="JUnit.FailedTestRunner" />
         <item itemvalue="JUnit.CukesRunner" />
+        <item itemvalue="JUnit.FailedTestRunner" />
         <item itemvalue="JUnit.FailedTestRunner" />
       </list>
     </recent_temporary>
@@ -198,7 +201,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="final" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -228,41 +243,41 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="346" y="113" key="Github.UntrackedFilesDialog/0.0.1280.800@0.0.1280.800" timestamp="1603879071865" />
-    <state width="1238" height="191" key="GridCell.Tab.0.bottom" timestamp="1604408488499">
-      <screen x="0" y="23" width="1280" height="734" />
+    <state width="1238" height="191" key="GridCell.Tab.0.bottom" timestamp="1604411030432">
+      <screen x="0" y="23" width="1280" height="733" />
     </state>
     <state width="375" height="197" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1603995464643" />
     <state width="1238" height="189" key="GridCell.Tab.0.bottom/0.23.1280.727@0.23.1280.727" timestamp="1603996250314" />
     <state width="1238" height="189" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1604006263403" />
     <state width="1238" height="189" key="GridCell.Tab.0.bottom/0.23.1280.729@0.23.1280.729" timestamp="1603996610289" />
-    <state width="1238" height="191" key="GridCell.Tab.0.bottom/0.23.1280.733@0.23.1280.733" timestamp="1604404669067" />
+    <state width="1238" height="191" key="GridCell.Tab.0.bottom/0.23.1280.733@0.23.1280.733" timestamp="1604411030432" />
     <state width="1238" height="191" key="GridCell.Tab.0.bottom/0.23.1280.734@0.23.1280.734" timestamp="1604408488499" />
-    <state width="1238" height="191" key="GridCell.Tab.0.center" timestamp="1604408488498">
-      <screen x="0" y="23" width="1280" height="734" />
+    <state width="1238" height="191" key="GridCell.Tab.0.center" timestamp="1604411030431">
+      <screen x="0" y="23" width="1280" height="733" />
     </state>
     <state width="375" height="197" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1603995464641" />
     <state width="1238" height="189" key="GridCell.Tab.0.center/0.23.1280.727@0.23.1280.727" timestamp="1603996250313" />
     <state width="1238" height="189" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1604006263402" />
     <state width="1238" height="189" key="GridCell.Tab.0.center/0.23.1280.729@0.23.1280.729" timestamp="1603996610288" />
-    <state width="1238" height="191" key="GridCell.Tab.0.center/0.23.1280.733@0.23.1280.733" timestamp="1604404669066" />
+    <state width="1238" height="191" key="GridCell.Tab.0.center/0.23.1280.733@0.23.1280.733" timestamp="1604411030431" />
     <state width="1238" height="191" key="GridCell.Tab.0.center/0.23.1280.734@0.23.1280.734" timestamp="1604408488498" />
-    <state width="1238" height="191" key="GridCell.Tab.0.left" timestamp="1604408488498">
-      <screen x="0" y="23" width="1280" height="734" />
+    <state width="1238" height="191" key="GridCell.Tab.0.left" timestamp="1604411030431">
+      <screen x="0" y="23" width="1280" height="733" />
     </state>
     <state width="375" height="197" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1603995464640" />
     <state width="1238" height="189" key="GridCell.Tab.0.left/0.23.1280.727@0.23.1280.727" timestamp="1603996250313" />
     <state width="1238" height="189" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1604006263402" />
     <state width="1238" height="189" key="GridCell.Tab.0.left/0.23.1280.729@0.23.1280.729" timestamp="1603996610288" />
-    <state width="1238" height="191" key="GridCell.Tab.0.left/0.23.1280.733@0.23.1280.733" timestamp="1604404669066" />
+    <state width="1238" height="191" key="GridCell.Tab.0.left/0.23.1280.733@0.23.1280.733" timestamp="1604411030431" />
     <state width="1238" height="191" key="GridCell.Tab.0.left/0.23.1280.734@0.23.1280.734" timestamp="1604408488497" />
-    <state width="1238" height="191" key="GridCell.Tab.0.right" timestamp="1604408488499">
-      <screen x="0" y="23" width="1280" height="734" />
+    <state width="1238" height="191" key="GridCell.Tab.0.right" timestamp="1604411030431">
+      <screen x="0" y="23" width="1280" height="733" />
     </state>
     <state width="375" height="197" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1603995464642" />
     <state width="1238" height="189" key="GridCell.Tab.0.right/0.23.1280.727@0.23.1280.727" timestamp="1603996250313" />
     <state width="1238" height="189" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1604006263403" />
     <state width="1238" height="189" key="GridCell.Tab.0.right/0.23.1280.729@0.23.1280.729" timestamp="1603996610289" />
-    <state width="1238" height="191" key="GridCell.Tab.0.right/0.23.1280.733@0.23.1280.733" timestamp="1604404669066" />
+    <state width="1238" height="191" key="GridCell.Tab.0.right/0.23.1280.733@0.23.1280.733" timestamp="1604411030431" />
     <state width="1238" height="191" key="GridCell.Tab.0.right/0.23.1280.734@0.23.1280.734" timestamp="1604408488499" />
     <state width="1238" height="264" key="GridCell.Tab.1.bottom" timestamp="1603557328620">
       <screen x="0" y="0" width="1280" height="800" />
