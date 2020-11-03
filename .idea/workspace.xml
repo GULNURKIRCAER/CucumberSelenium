@@ -11,11 +11,6 @@
       </path>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
       <path>
@@ -30,14 +25,7 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:origin/final" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </select>
+    <select />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="665a3bb2-f0fa-4e71-8e0c-b3b4b270b96e" name="Default Changelist" comment="last" />
@@ -195,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604407823307</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="last">
+      <created>1604409749479</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1604409749479</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -203,19 +198,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="origin/final" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -297,11 +280,15 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="264" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1603557328620" />
-    <state x="0" y="152" key="Vcs.Push.Dialog.v2" timestamp="1604407825268">
+    <state x="0" y="152" key="Vcs.Push.Dialog.v2" timestamp="1604409750933">
       <screen x="0" y="23" width="1280" height="734" />
     </state>
     <state x="0" y="141" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1603975051353" />
-    <state x="0" y="152" key="Vcs.Push.Dialog.v2/0.23.1280.734@0.23.1280.734" timestamp="1604407825268" />
+    <state x="0" y="152" key="Vcs.Push.Dialog.v2/0.23.1280.734@0.23.1280.734" timestamp="1604409750933" />
+    <state x="437" y="312" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604410047890">
+      <screen x="0" y="23" width="1280" height="733" />
+    </state>
+    <state x="437" y="312" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.733@0.23.1280.733" timestamp="1604410047890" />
     <state x="38" y="172" width="596" height="479" key="find.popup" timestamp="1604402554923">
       <screen x="0" y="23" width="1280" height="733" />
     </state>
