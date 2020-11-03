@@ -1,0 +1,58 @@
+-------------------------------------------------------------------------------
+Test set: Account types
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 6, Skipped: 0, Time elapsed: 454.65 s <<< FAILURE! - in Account types
+Driver user(Account types)  Time elapsed: 152.749 s  <<< ERROR!
+org.openqa.selenium.remote.UnreachableBrowserException: 
+Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Macbooks-MacBook-Pro.local', ip: 'fe80:0:0:0:18bb:8045:4316:f389%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.7', java.version: '12.0.1'
+Driver info: driver.version: Driver
+Caused by: java.net.ConnectException: Failed to connect to /3.238.26.132:4444
+Caused by: java.net.ConnectException: Operation timed out (Connection timed out)
+
+Driver user(Account types)  Time elapsed: 0 s  <<< ERROR!
+org.openqa.selenium.remote.UnreachableBrowserException: 
+Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Macbooks-MacBook-Pro.local', ip: 'fe80:0:0:0:18bb:8045:4316:f389%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.7', java.version: '12.0.1'
+Driver info: driver.version: Driver
+Caused by: java.net.ConnectException: Failed to connect to /3.238.26.132:4444
+Caused by: java.net.ConnectException: Operation timed out (Connection timed out)
+
+Sales manager user(Account types)  Time elapsed: 150.443 s  <<< ERROR!
+org.openqa.selenium.remote.UnreachableBrowserException: 
+Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Macbooks-MacBook-Pro.local', ip: 'fe80:0:0:0:18bb:8045:4316:f389%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.7', java.version: '12.0.1'
+Driver info: driver.version: Driver
+Caused by: java.net.ConnectException: Failed to connect to /3.238.26.132:4444
+Caused by: java.net.ConnectException: Operation timed out (Connection timed out)
+
+Sales manager user(Account types)  Time elapsed: 0 s  <<< ERROR!
+org.openqa.selenium.remote.UnreachableBrowserException: 
+Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Macbooks-MacBook-Pro.local', ip: 'fe80:0:0:0:18bb:8045:4316:f389%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.7', java.version: '12.0.1'
+Driver info: driver.version: Driver
+Caused by: java.net.ConnectException: Failed to connect to /3.238.26.132:4444
+Caused by: java.net.ConnectException: Operation timed out (Connection timed out)
+
+Store manager user(Account types)  Time elapsed: 151.455 s  <<< ERROR!
+org.openqa.selenium.remote.UnreachableBrowserException: 
+Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Macbooks-MacBook-Pro.local', ip: 'fe80:0:0:0:18bb:8045:4316:f389%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.7', java.version: '12.0.1'
+Driver info: driver.version: Driver
+Caused by: java.net.ConnectException: Failed to connect to /3.238.26.132:4444
+Caused by: java.net.ConnectException: Operation timed out (Connection timed out)
+
+Store manager user(Account types)  Time elapsed: 0 s  <<< ERROR!
+org.openqa.selenium.remote.UnreachableBrowserException: 
+Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Macbooks-MacBook-Pro.local', ip: 'fe80:0:0:0:18bb:8045:4316:f389%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.7', java.version: '12.0.1'
+Driver info: driver.version: Driver
+Caused by: java.net.ConnectException: Failed to connect to /3.238.26.132:4444
+Caused by: java.net.ConnectException: Operation timed out (Connection timed out)
+

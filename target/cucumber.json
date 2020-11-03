@@ -3,11 +3,11 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2020-10-29T12:52:10.704Z",
+        "start_timestamp": "2020-11-03T13:05:47.278Z",
         "before": [
           {
             "result": {
-              "duration": 2008000,
+              "duration": 1439000,
               "status": "passed"
             },
             "match": {
@@ -22,7 +22,7 @@
         "after": [
           {
             "result": {
-              "duration": 198455000,
+              "duration": 70737000,
               "status": "passed"
             },
             "match": {
@@ -35,7 +35,7 @@
         "steps": [
           {
             "result": {
-              "duration": 3807575000,
+              "duration": 7039517000,
               "status": "passed"
             },
             "line": 4,
@@ -53,7 +53,7 @@
           },
           {
             "result": {
-              "duration": 1961123000,
+              "duration": 787636000,
               "status": "passed"
             },
             "line": 5,
@@ -75,7 +75,7 @@
           },
           {
             "result": {
-              "duration": 2039161000,
+              "duration": 2016713000,
               "status": "passed"
             },
             "line": 6,
@@ -99,11 +99,11 @@
         ]
       },
       {
-        "start_timestamp": "2020-10-29T12:52:18.860Z",
+        "start_timestamp": "2020-11-03T13:05:57.412Z",
         "before": [
           {
             "result": {
-              "duration": 126000,
+              "duration": 1059000,
               "status": "passed"
             },
             "match": {
@@ -118,7 +118,7 @@
         "after": [
           {
             "result": {
-              "duration": 212413000,
+              "duration": 65860000,
               "status": "passed"
             },
             "match": {
@@ -131,7 +131,7 @@
         "steps": [
           {
             "result": {
-              "duration": 5388206000,
+              "duration": 6406728000,
               "status": "passed"
             },
             "line": 9,
@@ -149,7 +149,7 @@
           },
           {
             "result": {
-              "duration": 2815075000,
+              "duration": 2331247000,
               "status": "passed"
             },
             "line": 10,
@@ -171,7 +171,7 @@
           },
           {
             "result": {
-              "duration": 2011067000,
+              "duration": 2012162000,
               "status": "passed"
             },
             "line": 11,
@@ -195,11 +195,11 @@
         ]
       },
       {
-        "start_timestamp": "2020-10-29T12:52:29.295Z",
+        "start_timestamp": "2020-11-03T13:06:08.249Z",
         "before": [
           {
             "result": {
-              "duration": 110000,
+              "duration": 131000,
               "status": "passed"
             },
             "match": {
@@ -214,7 +214,7 @@
         "after": [
           {
             "result": {
-              "duration": 213026000,
+              "duration": 65407000,
               "status": "passed"
             },
             "match": {
@@ -227,7 +227,7 @@
         "steps": [
           {
             "result": {
-              "duration": 4724429000,
+              "duration": 5987058000,
               "status": "passed"
             },
             "line": 14,
@@ -245,7 +245,7 @@
           },
           {
             "result": {
-              "duration": 2389530000,
+              "duration": 3005184000,
               "status": "passed"
             },
             "line": 15,
@@ -267,7 +267,7 @@
           },
           {
             "result": {
-              "duration": 2009748000,
+              "duration": 2080352000,
               "status": "passed"
             },
             "line": 16,
@@ -287,6 +287,9 @@
         "tags": [
           {
             "name": "@wip"
+          },
+          {
+            "name": "@smoke"
           }
         ]
       }
@@ -296,6 +299,119 @@
     "id": "account-types",
     "keyword": "Feature",
     "uri": "file:src/test/resources/features/AccountType.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2020-11-03T13:06:19.412Z",
+        "before": [
+          {
+            "result": {
+              "duration": 103000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.vytrack.step_definitions.Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "Default page number",
+        "description": "",
+        "id": "contacts-page;default-page-number",
+        "after": [
+          {
+            "result": {
+              "duration": 71888000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.vytrack.step_definitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3023620000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "the user is on the login page",
+            "match": {
+              "location": "com.vytrack.step_definitions.LoginStepDefs.the_user_is_on_the_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 902713000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "the user enters the driver information",
+            "match": {
+              "location": "com.vytrack.step_definitions.LoginStepDefs.the_user_enters_the_driver_information()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2053689000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "the user navigates to \"Customers\" \"Contacts\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Customers\"",
+                  "offset": 22
+                },
+                {
+                  "val": "\"Contacts\"",
+                  "offset": 34
+                }
+              ],
+              "location": "com.vytrack.step_definitions.NavigationMenuStepDefs.the_user_navigates_to(java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3046477000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "default page number should be 1",
+            "match": {
+              "arguments": [
+                {
+                  "val": "1",
+                  "offset": 30
+                }
+              ],
+              "location": "com.vytrack.step_definitions.NavigationMenuStepDefs.default_page_number_should_be(java.lang.Integer)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@wip"
+          }
+        ]
+      }
+    ],
+    "name": "Contacts page",
+    "description": "",
+    "id": "contacts-page",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/Contacts.feature",
     "tags": []
   }
 ]
