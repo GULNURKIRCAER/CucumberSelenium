@@ -20,9 +20,9 @@ public class LoginPage {
     public WebElement submit;
 
     public void login(String userNameStr, String passwordStr) {
-        userName.sendKeys(userNameStr);
-        password.sendKeys(passwordStr);
-        submit.click();
+        this.userName.sendKeys(userNameStr);
+        this.password.sendKeys(passwordStr);
+        this.submit.click();
         // verification that we logged
     }
 }
