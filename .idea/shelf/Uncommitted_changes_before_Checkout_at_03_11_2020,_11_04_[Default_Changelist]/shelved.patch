@@ -1,0 +1,128 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"BranchesTreeState\">\n    <expand>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n    </expand>\n    <select>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"BRANCH:origin/final\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n    </select>\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"665a3bb2-f0fa-4e71-8e0c-b3b4b270b96e\" name=\"Default Changelist\" comment=\"driver added\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/configuration.properties\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/configuration.properties\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/test/java/com/vytrack/runners/CukesRunner.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/test/java/com/vytrack/runners/CukesRunner.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/test/resources/features/login.feature\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/test/resources/features/login.feature\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <favorite-branches>\n      <branch-storage>\n        <map>\n          <entry type=\"LOCAL\">\n            <value>\n              <list>\n                <branch-info repo=\"$PROJECT_DIR$\" source=\"final\" />\n              </list>\n            </value>\n          </entry>\n        </map>\n      </branch-storage>\n    </favorite-branches>\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\n      <map>\n        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\n      </map>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"MavenImportPreferences\">\n    <option name=\"generalSettings\">\n      <MavenGeneralSettings>\n        <option name=\"mavenHome\" value=\"$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3\" />\n      </MavenGeneralSettings>\n    </option>\n  </component>\n  <component name=\"ProjectId\" id=\"1j9xyPe9V4ocsu05WmhDbd9vSe7\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\n  </component>\n  <component name=\"RunManager\" selected=\"JUnit.CukesRunner\">\n    <configuration name=\"CukesRunner\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"EU3CucumberSeleniumME\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"com.vytrack.runners.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <option name=\"PACKAGE_NAME\" value=\"com.vytrack.runners\" />\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.vytrack.runners.CukesRunner\" />\n      <option name=\"TEST_OBJECT\" value=\"class\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"FailedTestRunner\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"EU3CucumberSeleniumME\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"com.vytrack.runners.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <option name=\"PACKAGE_NAME\" value=\"com.vytrack.runners\" />\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.vytrack.runners.FailedTestRunner\" />\n      <option name=\"TEST_OBJECT\" value=\"class\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"JUnit.CukesRunner\" />\n        <item itemvalue=\"JUnit.FailedTestRunner\" />\n        <item itemvalue=\"JUnit.FailedTestRunner\" />\n        <item itemvalue=\"JUnit.CukesRunner\" />\n        <item itemvalue=\"JUnit.CukesRunner\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"665a3bb2-f0fa-4e71-8e0c-b3b4b270b96e\" name=\"Default Changelist\" comment=\"\" />\n      <created>1603230374978</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1603230374978</updated>\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"failed test runner\">\n      <created>1603974574197</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1603974574197</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"failed test runner\">\n      <created>1603975049566</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1603975049566</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"failed test runner\">\n      <created>1603993115252</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1603993115252</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"failed test runner\">\n      <created>1603993172705</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1603993172705</updated>\n    </task>\n    <task id=\"LOCAL-00005\" summary=\"driver added\">\n      <created>1603996006392</created>\n      <option name=\"number\" value=\"00005\" />\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1603996006392</updated>\n    </task>\n    <task id=\"LOCAL-00006\" summary=\"driver added\">\n      <created>1603996071971</created>\n      <option name=\"number\" value=\"00006\" />\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1603996071971</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"7\" />\n    <servers />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State>\n              <option name=\"FILTERS\">\n                <map>\n                  <entry key=\"branch\">\n                    <value>\n                      <list>\n                        <option value=\"origin/final\" />\n                      </list>\n                    </value>\n                  </entry>\n                </map>\n              </option>\n            </State>\n          </value>\n        </entry>\n      </map>\n    </option>\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"failed test runner\" />\n    <MESSAGE value=\"driver added\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"driver added\" />\n  </component>\n  <component name=\"WindowStateProjectService\">\n    <state x=\"465\" y=\"308\" key=\"Github.ShareDialog\" timestamp=\"1603879067749\">\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"800\" />\n    </state>\n    <state x=\"465\" y=\"308\" key=\"Github.ShareDialog/0.0.1280.800@0.0.1280.800\" timestamp=\"1603879067749\" />\n    <state x=\"346\" y=\"113\" key=\"Github.UntrackedFilesDialog\" timestamp=\"1603879071865\">\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"800\" />\n    </state>\n    <state x=\"346\" y=\"113\" key=\"Github.UntrackedFilesDialog/0.0.1280.800@0.0.1280.800\" timestamp=\"1603879071865\" />\n    <state width=\"1238\" height=\"189\" key=\"GridCell.Tab.0.bottom\" timestamp=\"1603996610289\">\n      <screen x=\"0\" y=\"23\" width=\"1280\" height=\"729\" />\n    </state>\n    <state width=\"375\" height=\"197\" key=\"GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800\" timestamp=\"1603995464643\" />\n    <state width=\"1238\" height=\"189\" key=\"GridCell.Tab.0.bottom/0.23.1280.727@0.23.1280.727\" timestamp=\"1603996250314\" />\n    <state width=\"1238\" height=\"141\" key=\"GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728\" timestamp=\"1603722913993\" />\n    <state width=\"1238\" height=\"189\" key=\"GridCell.Tab.0.bottom/0.23.1280.729@0.23.1280.729\" timestamp=\"1603996610289\" />\n    <state width=\"1238\" height=\"189\" key=\"GridCell.Tab.0.center\" timestamp=\"1603996610288\">\n      <screen x=\"0\" y=\"23\" width=\"1280\" height=\"729\" />\n    </state>\n    <state width=\"375\" height=\"197\" key=\"GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800\" timestamp=\"1603995464641\" />\n    <state width=\"1238\" height=\"189\" key=\"GridCell.Tab.0.center/0.23.1280.727@0.23.1280.727\" timestamp=\"1603996250313\" />\n    <state width=\"1238\" height=\"141\" key=\"GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728\" timestamp=\"1603722913992\" />\n    <state width=\"1238\" height=\"189\" key=\"GridCell.Tab.0.center/0.23.1280.729@0.23.1280.729\" timestamp=\"1603996610288\" />\n    <state width=\"1238\" height=\"189\" key=\"GridCell.Tab.0.left\" timestamp=\"1603996610288\">\n      <screen x=\"0\" y=\"23\" width=\"1280\" height=\"729\" />\n    </state>\n    <state width=\"375\" height=\"197\" key=\"GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800\" timestamp=\"1603995464640\" />\n    <state width=\"1238\" height=\"189\" key=\"GridCell.Tab.0.left/0.23.1280.727@0.23.1280.727\" timestamp=\"1603996250313\" />\n    <state width=\"1238\" height=\"141\" key=\"GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728\" timestamp=\"1603722913991\" />\n    <state width=\"1238\" height=\"189\" key=\"GridCell.Tab.0.left/0.23.1280.729@0.23.1280.729\" timestamp=\"1603996610288\" />\n    <state width=\"1238\" height=\"189\" key=\"GridCell.Tab.0.right\" timestamp=\"1603996610289\">\n      <screen x=\"0\" y=\"23\" width=\"1280\" height=\"729\" />\n    </state>\n    <state width=\"375\" height=\"197\" key=\"GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800\" timestamp=\"1603995464642\" />\n    <state width=\"1238\" height=\"189\" key=\"GridCell.Tab.0.right/0.23.1280.727@0.23.1280.727\" timestamp=\"1603996250313\" />\n    <state width=\"1238\" height=\"141\" key=\"GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728\" timestamp=\"1603722913992\" />\n    <state width=\"1238\" height=\"189\" key=\"GridCell.Tab.0.right/0.23.1280.729@0.23.1280.729\" timestamp=\"1603996610289\" />\n    <state width=\"1238\" height=\"264\" key=\"GridCell.Tab.1.bottom\" timestamp=\"1603557328620\">\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"800\" />\n    </state>\n    <state width=\"1238\" height=\"264\" key=\"GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800\" timestamp=\"1603557328620\" />\n    <state width=\"1238\" height=\"264\" key=\"GridCell.Tab.1.center\" timestamp=\"1603557328619\">\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"800\" />\n    </state>\n    <state width=\"1238\" height=\"264\" key=\"GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800\" timestamp=\"1603557328619\" />\n    <state width=\"1238\" height=\"264\" key=\"GridCell.Tab.1.left\" timestamp=\"1603557328619\">\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"800\" />\n    </state>\n    <state width=\"1238\" height=\"264\" key=\"GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800\" timestamp=\"1603557328619\" />\n    <state width=\"1238\" height=\"264\" key=\"GridCell.Tab.1.right\" timestamp=\"1603557328620\">\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"800\" />\n    </state>\n    <state width=\"1238\" height=\"264\" key=\"GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800\" timestamp=\"1603557328620\" />\n    <state x=\"0\" y=\"141\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1603975051353\">\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"800\" />\n    </state>\n    <state x=\"0\" y=\"141\" key=\"Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800\" timestamp=\"1603975051353\" />\n    <state x=\"38\" y=\"171\" width=\"596\" height=\"475\" key=\"find.popup\" timestamp=\"1603998648799\">\n      <screen x=\"0\" y=\"23\" width=\"1280\" height=\"728\" />\n    </state>\n    <state x=\"38\" y=\"163\" width=\"596\" height=\"474\" key=\"find.popup/0.0.1280.800@0.0.1280.800\" timestamp=\"1603973515767\" />\n    <state x=\"38\" y=\"171\" width=\"596\" height=\"474\" key=\"find.popup/0.23.1280.727@0.23.1280.727\" timestamp=\"1603996223005\" />\n    <state x=\"38\" y=\"171\" width=\"596\" height=\"475\" key=\"find.popup/0.23.1280.728@0.23.1280.728\" timestamp=\"1603998648799\" />\n    <state x=\"358\" y=\"133\" key=\"git4idea.branch.GitSmartOperationDialog\" timestamp=\"1604006232271\">\n      <screen x=\"0\" y=\"23\" width=\"1280\" height=\"728\" />\n    </state>\n    <state x=\"358\" y=\"121\" key=\"git4idea.branch.GitSmartOperationDialog/0.0.1280.800@0.0.1280.800\" timestamp=\"1603994391935\" />\n    <state x=\"358\" y=\"133\" key=\"git4idea.branch.GitSmartOperationDialog/0.23.1280.727@0.23.1280.727\" timestamp=\"1603995996596\" />\n    <state x=\"358\" y=\"133\" key=\"git4idea.branch.GitSmartOperationDialog/0.23.1280.728@0.23.1280.728\" timestamp=\"1604006232270\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision d318cb3164fb25b707816dfd47774fc1c162d793)
++++ .idea/workspace.xml	(date 1604401438487)
+@@ -34,11 +34,9 @@
+     </select>
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="665a3bb2-f0fa-4e71-8e0c-b3b4b270b96e" name="Default Changelist" comment="driver added">
++    <list default="true" id="665a3bb2-f0fa-4e71-8e0c-b3b4b270b96e" name="Default Changelist" comment="last">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vytrack/runners/CukesRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/runners/CukesRunner.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/login.feature" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/test/java/com/vytrack/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/pages/LoginPage.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -180,7 +178,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1603996071971</updated>
+     </task>
+-    <option name="localTasksCounter" value="7" />
++    <task id="LOCAL-00007" summary="last">
++      <created>1604006249430</created>
++      <option name="number" value="00007" />
++      <option name="presentableId" value="LOCAL-00007" />
++      <option name="project" value="LOCAL" />
++      <updated>1604006249430</updated>
++    </task>
++    <option name="localTasksCounter" value="8" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -210,9 +215,18 @@
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="failed test runner" />
+     <MESSAGE value="driver added" />
+-    <option name="LAST_COMMIT_MESSAGE" value="driver added" />
++    <MESSAGE value="last" />
++    <option name="LAST_COMMIT_MESSAGE" value="last" />
+   </component>
+   <component name="WindowStateProjectService">
++    <state x="104" y="50" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604011395566">
++      <screen x="0" y="23" width="1280" height="727" />
++    </state>
++    <state x="104" y="50" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.727@0.23.1280.727" timestamp="1604011395566" />
++    <state x="372" y="210" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604171633539">
++      <screen x="0" y="0" width="1280" height="800" />
++    </state>
++    <state x="372" y="210" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.800@0.0.1280.800" timestamp="1604171633539" />
+     <state x="465" y="308" key="Github.ShareDialog" timestamp="1603879067749">
+       <screen x="0" y="0" width="1280" height="800" />
+     </state>
+@@ -221,33 +235,33 @@
+       <screen x="0" y="0" width="1280" height="800" />
+     </state>
+     <state x="346" y="113" key="Github.UntrackedFilesDialog/0.0.1280.800@0.0.1280.800" timestamp="1603879071865" />
+-    <state width="1238" height="189" key="GridCell.Tab.0.bottom" timestamp="1603996610289">
+-      <screen x="0" y="23" width="1280" height="729" />
++    <state width="1238" height="189" key="GridCell.Tab.0.bottom" timestamp="1604006263403">
++      <screen x="0" y="23" width="1280" height="728" />
+     </state>
+     <state width="375" height="197" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1603995464643" />
+     <state width="1238" height="189" key="GridCell.Tab.0.bottom/0.23.1280.727@0.23.1280.727" timestamp="1603996250314" />
+-    <state width="1238" height="141" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1603722913993" />
++    <state width="1238" height="189" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1604006263403" />
+     <state width="1238" height="189" key="GridCell.Tab.0.bottom/0.23.1280.729@0.23.1280.729" timestamp="1603996610289" />
+-    <state width="1238" height="189" key="GridCell.Tab.0.center" timestamp="1603996610288">
+-      <screen x="0" y="23" width="1280" height="729" />
++    <state width="1238" height="189" key="GridCell.Tab.0.center" timestamp="1604006263402">
++      <screen x="0" y="23" width="1280" height="728" />
+     </state>
+     <state width="375" height="197" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1603995464641" />
+     <state width="1238" height="189" key="GridCell.Tab.0.center/0.23.1280.727@0.23.1280.727" timestamp="1603996250313" />
+-    <state width="1238" height="141" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1603722913992" />
++    <state width="1238" height="189" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1604006263402" />
+     <state width="1238" height="189" key="GridCell.Tab.0.center/0.23.1280.729@0.23.1280.729" timestamp="1603996610288" />
+-    <state width="1238" height="189" key="GridCell.Tab.0.left" timestamp="1603996610288">
+-      <screen x="0" y="23" width="1280" height="729" />
++    <state width="1238" height="189" key="GridCell.Tab.0.left" timestamp="1604006263402">
++      <screen x="0" y="23" width="1280" height="728" />
+     </state>
+     <state width="375" height="197" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1603995464640" />
+     <state width="1238" height="189" key="GridCell.Tab.0.left/0.23.1280.727@0.23.1280.727" timestamp="1603996250313" />
+-    <state width="1238" height="141" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1603722913991" />
++    <state width="1238" height="189" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1604006263402" />
+     <state width="1238" height="189" key="GridCell.Tab.0.left/0.23.1280.729@0.23.1280.729" timestamp="1603996610288" />
+-    <state width="1238" height="189" key="GridCell.Tab.0.right" timestamp="1603996610289">
+-      <screen x="0" y="23" width="1280" height="729" />
++    <state width="1238" height="189" key="GridCell.Tab.0.right" timestamp="1604006263403">
++      <screen x="0" y="23" width="1280" height="728" />
+     </state>
+     <state width="375" height="197" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1603995464642" />
+     <state width="1238" height="189" key="GridCell.Tab.0.right/0.23.1280.727@0.23.1280.727" timestamp="1603996250313" />
+-    <state width="1238" height="141" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1603722913992" />
++    <state width="1238" height="189" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1604006263403" />
+     <state width="1238" height="189" key="GridCell.Tab.0.right/0.23.1280.729@0.23.1280.729" timestamp="1603996610289" />
+     <state width="1238" height="264" key="GridCell.Tab.1.bottom" timestamp="1603557328620">
+       <screen x="0" y="0" width="1280" height="800" />
+Index: src/test/java/com/vytrack/pages/LoginPage.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package com.vytrack.pages;\n\nimport com.vytrack.utilities.Driver;\nimport org.openqa.selenium.WebElement;\nimport org.openqa.selenium.support.FindBy;\nimport org.openqa.selenium.support.PageFactory;\n\npublic class LoginPage {\n\n    public LoginPage(){\n        PageFactory.initElements(Driver.get(), this);\n    }\n    @FindBy(id=\"prependedInput\")\n    public WebElement userName;\n\n    @FindBy(id=\"prependedInput2\")\n    public WebElement password;\n\n    @FindBy(name = \"_submit\")\n    public WebElement submit;\n\n    public void login(String userNameStr, String passwordStr) {\n        userName.sendKeys(userNameStr);\n        password.sendKeys(passwordStr);\n        submit.click();\n        // verification that we logged\n    }\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/test/java/com/vytrack/pages/LoginPage.java	(revision d318cb3164fb25b707816dfd47774fc1c162d793)
++++ src/test/java/com/vytrack/pages/LoginPage.java	(date 1604401438492)
+@@ -20,9 +20,9 @@
+     public WebElement submit;
+ 
+     public void login(String userNameStr, String passwordStr) {
+-        userName.sendKeys(userNameStr);
+-        password.sendKeys(passwordStr);
+-        submit.click();
++        this.userName.sendKeys(userNameStr);
++        this.password.sendKeys(passwordStr);
++        this.submit.click();
+         // verification that we logged
+     }
+ }
+\ No newline at end of file
