@@ -22,8 +22,9 @@
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:final" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
@@ -57,7 +58,7 @@
     </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="final" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -110,8 +111,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.FailedTestRunner" />
         <item itemvalue="JUnit.CukesRunner" />
+        <item itemvalue="JUnit.FailedTestRunner" />
         <item itemvalue="JUnit.FailedTestRunner" />
         <item itemvalue="JUnit.CukesRunner" />
         <item itemvalue="JUnit.FailedTestRunner" />
@@ -204,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604417789796</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="last">
+      <created>1604418866203</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1604418866203</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -218,7 +226,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="final" />
+                        <option value="origin/master" />
                       </list>
                     </value>
                   </entry>
@@ -310,12 +318,13 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="264" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1603557328620" />
-    <state x="0" y="152" key="Vcs.Push.Dialog.v2" timestamp="1604417791310">
-      <screen x="0" y="23" width="1280" height="732" />
+    <state x="0" y="153" key="Vcs.Push.Dialog.v2" timestamp="1604418889643">
+      <screen x="0" y="23" width="1280" height="735" />
     </state>
     <state x="0" y="141" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1603975051353" />
     <state x="0" y="152" key="Vcs.Push.Dialog.v2/0.23.1280.732@0.23.1280.732" timestamp="1604417791310" />
     <state x="0" y="152" key="Vcs.Push.Dialog.v2/0.23.1280.734@0.23.1280.734" timestamp="1604409750933" />
+    <state x="0" y="153" key="Vcs.Push.Dialog.v2/0.23.1280.735@0.23.1280.735" timestamp="1604418889643" />
     <state x="437" y="312" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604410047890">
       <screen x="0" y="23" width="1280" height="733" />
     </state>
