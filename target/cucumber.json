@@ -3,11 +3,11 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2020-11-08T17:05:00.755Z",
+        "start_timestamp": "2020-11-10T22:46:54.436Z",
         "before": [
           {
             "result": {
-              "duration": 1680000,
+              "duration": 867000,
               "status": "passed"
             },
             "match": {
@@ -22,7 +22,7 @@
         "after": [
           {
             "result": {
-              "duration": 174735000,
+              "duration": 158180000,
               "status": "passed"
             },
             "match": {
@@ -35,7 +35,7 @@
         "steps": [
           {
             "result": {
-              "duration": 7659940000,
+              "duration": 5543409000,
               "status": "passed"
             },
             "line": 4,
@@ -53,7 +53,7 @@
           },
           {
             "result": {
-              "duration": 662653000,
+              "duration": 728971000,
               "status": "passed"
             },
             "line": 5,
@@ -75,7 +75,7 @@
           },
           {
             "result": {
-              "duration": 2009998000,
+              "duration": 2011458000,
               "status": "passed"
             },
             "line": 6,
@@ -99,11 +99,11 @@
         ]
       },
       {
-        "start_timestamp": "2020-11-08T17:05:11.399Z",
+        "start_timestamp": "2020-11-10T22:47:02.981Z",
         "before": [
           {
             "result": {
-              "duration": 106000,
+              "duration": 78000,
               "status": "passed"
             },
             "match": {
@@ -118,7 +118,7 @@
         "after": [
           {
             "result": {
-              "duration": 217851000,
+              "duration": 171109000,
               "status": "passed"
             },
             "match": {
@@ -131,7 +131,7 @@
         "steps": [
           {
             "result": {
-              "duration": 5113449000,
+              "duration": 3607358000,
               "status": "passed"
             },
             "line": 9,
@@ -149,7 +149,7 @@
           },
           {
             "result": {
-              "duration": 3322585000,
+              "duration": 3860119000,
               "status": "passed"
             },
             "line": 10,
@@ -171,7 +171,7 @@
           },
           {
             "result": {
-              "duration": 2032314000,
+              "duration": 2010308000,
               "status": "passed"
             },
             "line": 11,
@@ -191,105 +191,6 @@
         "tags": [
           {
             "name": "@wip"
-          }
-        ]
-      },
-      {
-        "start_timestamp": "2020-11-08T17:05:22.098Z",
-        "before": [
-          {
-            "result": {
-              "duration": 1919000,
-              "status": "passed"
-            },
-            "match": {
-              "location": "com.vytrack.step_definitions.Hooks.setUp()"
-            }
-          }
-        ],
-        "line": 13,
-        "name": "Store manager user",
-        "description": "",
-        "id": "account-types;store-manager-user",
-        "after": [
-          {
-            "result": {
-              "duration": 180709000,
-              "status": "passed"
-            },
-            "match": {
-              "location": "com.vytrack.step_definitions.Hooks.tearDown(io.cucumber.java.Scenario)"
-            }
-          }
-        ],
-        "type": "scenario",
-        "keyword": "Scenario",
-        "steps": [
-          {
-            "result": {
-              "duration": 30280816000,
-              "status": "passed"
-            },
-            "line": 14,
-            "name": "the user logged in as \"store manager\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"store manager\"",
-                  "offset": 22
-                }
-              ],
-              "location": "com.vytrack.step_definitions.ContactsStepDefs.the_user_logged_in_as(java.lang.String)"
-            },
-            "keyword": "Given "
-          },
-          {
-            "result": {
-              "duration": 2723027000,
-              "status": "passed"
-            },
-            "line": 15,
-            "name": "the user navigates to \"Customers\" \"Contacts\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"Customers\"",
-                  "offset": 22
-                },
-                {
-                  "val": "\"Contacts\"",
-                  "offset": 34
-                }
-              ],
-              "location": "com.vytrack.step_definitions.NavigationMenuStepDefs.the_user_navigates_to(java.lang.String,java.lang.String)"
-            },
-            "keyword": "When "
-          },
-          {
-            "result": {
-              "duration": 2009605000,
-              "status": "passed"
-            },
-            "line": 16,
-            "name": "the title contains \"Contacts - Customers\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"Contacts - Customers\"",
-                  "offset": 19
-                }
-              ],
-              "location": "com.vytrack.step_definitions.LoginStepDefs.the_title_contains(java.lang.String)"
-            },
-            "keyword": "Then "
-          }
-        ],
-        "tags": [
-          {
-            "name": "@wip"
-          },
-          {
-            "name": "@smoke"
           }
         ]
       }

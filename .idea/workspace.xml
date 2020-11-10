@@ -30,14 +30,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="665a3bb2-f0fa-4e71-8e0c-b3b4b270b96e" name="Default Changelist" comment="last">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_11_2020,_11_02_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_11_2020,_11_03_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_11_2020,_11_04_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_11_2020,_13_19_[Default_Changelist]1/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_11_2020__11_02__Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_11_2020__11_03__Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_11_2020__11_04__Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_11_2020__13_19__Default_Changelist_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_11_2020,_15_53_[Default_Changelist]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -243,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604855187779</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="last">
+      <created>1605031043475</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1605031043475</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -349,11 +349,11 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="264" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1603557328620" />
-    <state x="0" y="152" key="Vcs.Push.Dialog.v2" timestamp="1604855189196">
+    <state x="0" y="152" key="Vcs.Push.Dialog.v2" timestamp="1605031045446">
       <screen x="0" y="23" width="1280" height="727" />
     </state>
     <state x="0" y="141" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1603975051353" />
-    <state x="0" y="152" key="Vcs.Push.Dialog.v2/0.23.1280.727@0.23.1280.727" timestamp="1604855189196" />
+    <state x="0" y="152" key="Vcs.Push.Dialog.v2/0.23.1280.727@0.23.1280.727" timestamp="1605031045446" />
     <state x="0" y="152" key="Vcs.Push.Dialog.v2/0.23.1280.732@0.23.1280.732" timestamp="1604417791310" />
     <state x="0" y="153" key="Vcs.Push.Dialog.v2/0.23.1280.733@0.23.1280.733" timestamp="1604419621109" />
     <state x="0" y="152" key="Vcs.Push.Dialog.v2/0.23.1280.734@0.23.1280.734" timestamp="1604409750933" />
