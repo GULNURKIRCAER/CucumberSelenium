@@ -3,11 +3,11 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2020-11-10T22:46:54.436Z",
+        "start_timestamp": "2020-11-13T14:11:18.876Z",
         "before": [
           {
             "result": {
-              "duration": 867000,
+              "duration": 1154000,
               "status": "passed"
             },
             "match": {
@@ -16,13 +16,13 @@
           }
         ],
         "line": 3,
-        "name": "Driver user",
+        "name": "Contacts test with email",
         "description": "",
-        "id": "account-types;driver-user",
+        "id": "contacts-page;contacts-test-with-email",
         "after": [
           {
             "result": {
-              "duration": 158180000,
+              "duration": 238055000,
               "status": "passed"
             },
             "match": {
@@ -35,106 +35,10 @@
         "steps": [
           {
             "result": {
-              "duration": 5543409000,
+              "duration": 5630612000,
               "status": "passed"
             },
             "line": 4,
-            "name": "the user logged in as \"driver\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"driver\"",
-                  "offset": 22
-                }
-              ],
-              "location": "com.vytrack.step_definitions.ContactsStepDefs.the_user_logged_in_as(java.lang.String)"
-            },
-            "keyword": "Given "
-          },
-          {
-            "result": {
-              "duration": 728971000,
-              "status": "passed"
-            },
-            "line": 5,
-            "name": "the user navigates to \"Activities\" \"Calendar Events\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"Activities\"",
-                  "offset": 22
-                },
-                {
-                  "val": "\"Calendar Events\"",
-                  "offset": 35
-                }
-              ],
-              "location": "com.vytrack.step_definitions.NavigationMenuStepDefs.the_user_navigates_to(java.lang.String,java.lang.String)"
-            },
-            "keyword": "When "
-          },
-          {
-            "result": {
-              "duration": 2011458000,
-              "status": "passed"
-            },
-            "line": 6,
-            "name": "the title contains \"Calendar Events - Activities\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"Calendar Events - Activities\"",
-                  "offset": 19
-                }
-              ],
-              "location": "com.vytrack.step_definitions.LoginStepDefs.the_title_contains(java.lang.String)"
-            },
-            "keyword": "Then "
-          }
-        ],
-        "tags": [
-          {
-            "name": "@wip"
-          }
-        ]
-      },
-      {
-        "start_timestamp": "2020-11-10T22:47:02.981Z",
-        "before": [
-          {
-            "result": {
-              "duration": 78000,
-              "status": "passed"
-            },
-            "match": {
-              "location": "com.vytrack.step_definitions.Hooks.setUp()"
-            }
-          }
-        ],
-        "line": 8,
-        "name": "Sales manager user",
-        "description": "",
-        "id": "account-types;sales-manager-user",
-        "after": [
-          {
-            "result": {
-              "duration": 171109000,
-              "status": "passed"
-            },
-            "match": {
-              "location": "com.vytrack.step_definitions.Hooks.tearDown(io.cucumber.java.Scenario)"
-            }
-          }
-        ],
-        "type": "scenario",
-        "keyword": "Scenario",
-        "steps": [
-          {
-            "result": {
-              "duration": 3607358000,
-              "status": "passed"
-            },
-            "line": 9,
             "name": "the user logged in as \"sales manager\"",
             "match": {
               "arguments": [
@@ -149,11 +53,11 @@
           },
           {
             "result": {
-              "duration": 3860119000,
+              "duration": 3167795000,
               "status": "passed"
             },
-            "line": 10,
-            "name": "the user navigates to \"Customers\" \"Accounts\"",
+            "line": 5,
+            "name": "the user navigates to \"Customers\" \"Contacts\"",
             "match": {
               "arguments": [
                 {
@@ -161,29 +65,41 @@
                   "offset": 22
                 },
                 {
-                  "val": "\"Accounts\"",
+                  "val": "\"Contacts\"",
                   "offset": 34
                 }
               ],
               "location": "com.vytrack.step_definitions.NavigationMenuStepDefs.the_user_navigates_to(java.lang.String,java.lang.String)"
             },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4386414000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "the user clicks the \"mbrackstone9@example.com\" from contacts",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"mbrackstone9@example.com\"",
+                  "offset": 20
+                }
+              ],
+              "location": "com.vytrack.step_definitions.ContactsStepDefs.the_user_clicks_the_from_contacts(java.lang.String)"
+            },
             "keyword": "When "
           },
           {
             "result": {
-              "duration": 2010308000,
+              "duration": 1164013000,
               "status": "passed"
             },
-            "line": 11,
-            "name": "the title contains \"Accounts - Customers\"",
+            "line": 7,
+            "name": "the information should be same with database",
             "match": {
-              "arguments": [
-                {
-                  "val": "\"Accounts - Customers\"",
-                  "offset": 19
-                }
-              ],
-              "location": "com.vytrack.step_definitions.LoginStepDefs.the_title_contains(java.lang.String)"
+              "location": "com.vytrack.step_definitions.ContactsStepDefs.the_information_should_be_same_with_database()"
             },
             "keyword": "Then "
           }
@@ -193,13 +109,149 @@
             "name": "@wip"
           }
         ]
+      },
+      {
+        "start_timestamp": "2020-11-13T14:11:33.586Z",
+        "before": [
+          {
+            "result": {
+              "duration": 245000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.vytrack.step_definitions.Hooks.setUp()"
+            }
+          },
+          {
+            "result": {
+              "duration": 142000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.vytrack.step_definitions.Hooks.setUpdb()"
+            }
+          }
+        ],
+        "line": 10,
+        "name": "Contacts test with email",
+        "description": "",
+        "id": "contacts-page;contacts-test-with-email",
+        "after": [
+          {
+            "result": {
+              "duration": 109000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.vytrack.step_definitions.Hooks.closeDb()"
+            }
+          },
+          {
+            "result": {
+              "duration": 254871000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.vytrack.step_definitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5260353000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "the user logged in as \"sales manager\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"sales manager\"",
+                  "offset": 22
+                }
+              ],
+              "location": "com.vytrack.step_definitions.ContactsStepDefs.the_user_logged_in_as(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2814564000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "the user navigates to \"Customers\" \"Contacts\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Customers\"",
+                  "offset": 22
+                },
+                {
+                  "val": "\"Contacts\"",
+                  "offset": 34
+                }
+              ],
+              "location": "com.vytrack.step_definitions.NavigationMenuStepDefs.the_user_navigates_to(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4521169000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "the user clicks the \"mike.jorden@hotmail.com\" from contacts",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"mike.jorden@hotmail.com\"",
+                  "offset": 20
+                }
+              ],
+              "location": "com.vytrack.step_definitions.ContactsStepDefs.the_user_clicks_the_from_contacts(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "error_message": "io.cucumber.java.PendingException: TODO: implement me\n\tat com.vytrack.step_definitions.ContactsStepDefs.the_information_for_should_be_same_with_database(ContactsStepDefs.java:122)\n\tat ✽.the information for \"mike.jorden@hotmail.com\" should be same with database(file:///Users/macbookpro/idealProjects/EU3CucumberSeleniumME/src/test/resources/features/Contacts.feature:14)\n",
+              "duration": 5153000,
+              "status": "pending"
+            },
+            "line": 14,
+            "name": "the information for \"mike.jorden@hotmail.com\" should be same with database",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"mike.jorden@hotmail.com\"",
+                  "offset": 20
+                }
+              ],
+              "location": "com.vytrack.step_definitions.ContactsStepDefs.the_information_for_should_be_same_with_database(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@wip"
+          },
+          {
+            "name": "@db"
+          }
+        ]
       }
     ],
-    "name": "Account types",
+    "name": "Contacts page",
     "description": "",
-    "id": "account-types",
+    "id": "contacts-page",
     "keyword": "Feature",
-    "uri": "file:src/test/resources/features/AccountType.feature",
+    "uri": "file:src/test/resources/features/Contacts.feature",
     "tags": []
   }
 ]
