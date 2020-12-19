@@ -1,19 +1,20 @@
 Feature: Contacts page
-@wip
+
   Scenario: Contacts test with email
     Given the user logged in as "sales manager"
     And the user navigates to "Customers" "Contacts"
     When the user clicks the "mbrackstone9@example.com" from contacts
     Then the information should be same with database
 
-  @wip @db
+   @db
   Scenario: Contacts test with email
     Given the user logged in as "sales manager"
     And the user navigates to "Customers" "Contacts"
     When the user clicks the "mike.jorden@hotmail.com" from contacts
     Then the information for "mike.jorden@hotmail.com" should be same with database
+#bu ikisi ayni
 
-
+  @wip @db
   Scenario Outline: Contacts Test
     Given the user logged in as "sales manager"
     And the user navigates to "Customers" "Contacts"
@@ -70,7 +71,7 @@ Feature: Contacts page
       | lastname  | Schneider   |
     Then the user should be able to login
 
-
+  @wip
   Scenario Outline: login as a given user <user>
     Given the user is on the login page
     When the user logs in using following credentials

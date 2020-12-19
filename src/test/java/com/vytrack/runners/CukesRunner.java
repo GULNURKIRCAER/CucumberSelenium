@@ -13,7 +13,8 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/features", //to make connection if there is no features cukesRunner
                                                  // will look at same package(runners)Path of file
         glue = "com/vytrack/step_definitions",
-       // dryRun = true  calisip calismadigi gosterir print yapmaz
+       // dryRun = true  calisip calismadigi gosterir print yapmaz,senaryo yazdiktan sonra true yap ki
+        //sana konsolda metodu cikarsin.sonra false yap
         dryRun = false, //print yapar.sayfaya gider acar kapatir
         tags="@wip"
         //tags = "@wip" //work in process
