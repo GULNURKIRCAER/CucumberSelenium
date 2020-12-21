@@ -6,7 +6,7 @@ Feature: Contacts page
     When the user clicks the "mbrackstone9@example.com" from contacts
     Then the information should be same with database
 
-   @db
+  @db
   Scenario: Contacts test with email
     Given the user logged in as "sales manager"
     And the user navigates to "Customers" "Contacts"
@@ -22,9 +22,9 @@ Feature: Contacts page
     Then the information for "<email>" should be same with database
 
     Examples:
-      |email|
-      |mbrackstone9@example.com|
-      |mike.jorden@hotmail.com |
+      | email                    |
+      | mbrackstone9@example.com |
+      | mike.jorden@hotmail.com  |
 
   Scenario:Default page number
     Given the user is on the login page
@@ -82,6 +82,6 @@ Feature: Contacts page
     Then the user should be able to login
 
     Examples:
-      | user           | firstName | lastName  |
-      | user10         | Brenden   | Schneider |
-      | storemanager85 | Stephan   | Haley     |
+      | user           | firstName | lastName       |
+      | user10         | Brenden   | Schneider      |
+      | storemanager85 | Stephan   | Tremaine Haley |
