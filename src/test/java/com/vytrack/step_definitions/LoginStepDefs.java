@@ -11,8 +11,10 @@ import org.junit.Assert;
 import org.junit.Ignore;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 
 public class LoginStepDefs {
+
     @Given("the user is on the login page")
     public void the_user_is_on_the_login_page() throws InterruptedException {
 
@@ -99,10 +101,13 @@ public class LoginStepDefs {
     }
 
 
+    @Then("the user should be able to click menu button")
+    public void theUserShouldBeAbleToClickMenuButton() throws InterruptedException {
+        Thread.sleep(10000);
 
+        Driver.get().findElement(By.id("main-menu-toggle")).click();
 
+        Driver.get().findElement(By.xpath("(//i[@class='fa-asterisk menu-icon'])[1]")).click();
 
-
-
-
+    }
 }

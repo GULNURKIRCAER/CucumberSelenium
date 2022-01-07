@@ -1,5 +1,6 @@
 package com.vytrack.step_definitions;
 
+import com.vytrack.utilities.ConfigurationReader;
 import com.vytrack.utilities.DBUtils;
 import com.vytrack.utilities.Driver;
 import io.cucumber.java.After;
@@ -10,13 +11,21 @@ import org.openqa.selenium.TakesScreenshot;
 
 import java.util.concurrent.TimeUnit;
 
-public class Hooks {
+public class Hooks { //Methods that execute before and after scenarios.
+                    // Hook will always run, even if the scenario fails.
 
     @Before
     public void setUp(){
         System.out.println("\tthis is coming from BEFORE");
+
+        String browser =ConfigurationReader.get("browser");
+
+        if(!browser.contains(("mobile"))){
+            Driver.get().manage().window().maximize();
+        }
         Driver.get().manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-        Driver.get().manage().window().maximize();
+
+
     }
 
     @After
@@ -26,7 +35,7 @@ public class Hooks {
             scenario.attach(screenshot,"image/png","screenshot");
         }
 
-        Driver.closeDriver();
+//        Driver.closeDriver();
 
     }
 

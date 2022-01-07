@@ -47,7 +47,9 @@ Feature: Contacts page
       | Customers  |
       | Activities |
       | System     |
-
+#If you have lots of values to pass from feature file,
+# instead of using parameters we can pass them as a list.
+# We separate data with the pipes
 
   Scenario: Menu Options Sales Manager
     Given the user logged in as "sales manager"

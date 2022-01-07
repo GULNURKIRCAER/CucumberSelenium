@@ -1,3 +1,5 @@
+@wipp
+
 Feature: Account types
 
   Scenario: Driver user

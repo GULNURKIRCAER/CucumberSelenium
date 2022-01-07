@@ -1,4 +1,7 @@
+@wipp
+
 Feature: Account types
+
   Scenario: Driver user
     Given the user logged in as "driver"
     When the user navigates to "Activities" "Calendar Events"
